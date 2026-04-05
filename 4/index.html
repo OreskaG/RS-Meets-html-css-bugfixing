@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 4 — Photo Gallery</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐞</text></svg>">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <a href="../index.html" class="nav-logo">🐞 Find the Bug</a>
+            <ul class="nav-links">
+                <li><a href="../1/index.html">Task 1</a></li>
+                <li><a href="../2/index.html">Task 2</a></li>
+                <li><a href="../3/index.html">Task 3</a></li>
+                <li><a href="../4/index.html" class="active">Task 4</a></li>
+                <li><a href="../5/index.html">Task 5</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="content">
+        <h1 class="gallery-title">📸 My Photo Gallery</h1>
+        <p class="gallery-subtitle">A collection of my favorite travel photos</p>
+
+        <div class="gallery">
+            <div class="gallery-card">
+                <img
+                    class="gallery-image"
+                    src="./../assets/4-sunset.jpg"
+                    alt="Sunset"
+                >
+                <p class="gallery-caption">Sunset at the Beach</p>
+            </div>
+
+            <div class="gallery-card">
+                <img
+                    class="gallery-image"
+                    src="./../assets/4-Forest.webp"
+                    alt="Forest"
+                >
+                <p class="gallery-caption">Morning in the Forest</p>
+            </div>
+
+            <div class="gallery-card">
+                <img
+                    class="gallery-image"
+                    src="./../assets/4-Ocean.jpg"
+                    alt="Ocean"
+                >
+                <p class="gallery-caption">Deep Blue Ocean</p>
+            </div>
+
+            <div class="gallery-card">
+                <img
+                    class="gallery-image"
+                    src="./../assets/4-Desert.jpeg"
+                    alt="Desert"
+                >
+                <p class="gallery-caption">Golden Desert Dunes</p>
+            </div>
+
+            <div class="gallery-card">
+                <img
+                    class="gallery-image"
+                    src="./../assets/4-Spring.jpg"
+                    alt="Garden"
+                >
+                <p class="gallery-caption">Spring Garden Bloom</p>
+            </div>
+
+            <div class="gallery-card">
+                <img
+                    class="gallery-image"
+                    src="./../assets/4-Hills.webp"
+                    alt="Hills"
+                >
+                <p class="gallery-caption">Green Rolling Hills</p>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p>RS Meets: Find the Bug 🐞 | Task 4</p>
+    </footer>
+
+    <div class="hint-bug">
+        <span class="hint-bug-icon">🐞</span>
+        <div class="hint-bug-tooltip">
+            <h3>Bugs on this page:</h3>
+            <ol>
+                <li>Photos should be in a flex grid (3 per row)</li>
+                <li>Cards should wrap to the next row</li>
+                <li>Cards need a ~20px gap between them</li>
+                <li>Gallery should be centered</li>
+                <li>Photos should preserve proportions</li>
+            </ol>
+        </div>
+    </div>
+</body>
+</html>
