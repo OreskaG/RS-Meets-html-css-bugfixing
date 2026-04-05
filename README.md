@@ -89,8 +89,8 @@ A portfolio page with project cards. The hover effects and layout need fixing.
 | # | What's wrong |
 |---|---|
 | 1 | Project cards don't wrap on smaller screens — they should wrap to the next line |
-| 2 | Hovering over a card has no smooth transition — the change should be animated |
-| 3 | Cards don't react to hover — they should lift up and show a stronger shadow on hover |
+| 2 | Cards don't react to hover — they should lift up and show a stronger shadow on hover |
+| 3 | Hovering over a card has no smooth transition — the change should be animated |
 | 4 | Tags (HTML, CSS, etc.) are stacked vertically — they should be in a horizontal row |
 | 5 | "View Project" link has a default arrow cursor — it should show a pointer (hand) cursor |
 
