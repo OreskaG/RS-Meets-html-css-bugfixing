@@ -8,7 +8,7 @@ Difficulty increases from Task 1 (easiest) to Task 5 (hardest).
 
 ## 🔗 Deploy
 
-> **Live demo:** _link will be added after deployment to GitHub Pages_
+> **Live demo:** https://oreskag.github.io/RS-Meets-html-css-bugfixing/index.html
 
 ---
 
@@ -78,7 +78,7 @@ A photo gallery should show images in a nice grid. This one... doesn't.
 | 2 | Photos don't wrap to the next row — cards should wrap when they don't fit |
 | 3 | There's no space between the photo cards — there should be a ~20px gap |
 | 4 | Gallery is aligned to the right side — it should be centered |
-| 5 | Photos look stretched and distorted — they should preserve proportions (no stretching) |
+| 5 | Photos look stretched and distorted — should be rounded in cards. |
 
 ---
 
