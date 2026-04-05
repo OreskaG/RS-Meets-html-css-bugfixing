@@ -14,13 +14,15 @@ Difficulty increases from Task 1 (easiest) to Task 5 (hardest).
 
 ## How to start
 
-1. Fork this repository
-2. Clone it to your computer
-3. Open `index.html` in a browser — this is the main landing page
-4. Navigate to each task using the links in the header
-5. Compare what you **see** with what is **described** below
-6. Find the bugs in the CSS files and fix them
-7. Commit your changes and push
+1. Fork this repository to your GitHub account  
+2. Clone your fork to your local machine  
+3. Open the project in your IDE  
+4. Create a new branch from `main` (e.g. `fix/styles`)  
+5. Fix the issues in the CSS files  
+6. Commit your changes with a clear message  
+7. Push the branch to your remote repository  
+8. Open a Pull Request to the `gh-pages` branch  
+9. Merge your Pull Request
 
 > **Hint:** All bugs are in the `styles.css` files. The HTML is correct — don't change it!
 
