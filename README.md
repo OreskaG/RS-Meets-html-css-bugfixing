@@ -8,7 +8,7 @@ Difficulty increases from Task 1 (easiest) to Task 5 (hardest).
 
 ## 🔗 Deploy
 
-> **Live demo:** _link will be added after deployment to GitHub Pages_
+> **Live demo:** https://oreskag.github.io/RS-Meets-html-css-bugfixing/index.html
 
 ---
 
